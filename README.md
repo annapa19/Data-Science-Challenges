@@ -1,5 +1,5 @@
 
-### 1)Identifying which factors predict future user adoption
+### 1) Identifying which factors predict future user adoption
 
 Using Relax Inc's data on their user engagement, we identify the factors that predict future user adoption.
 
